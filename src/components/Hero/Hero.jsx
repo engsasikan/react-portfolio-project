@@ -34,17 +34,17 @@ function Hero() {
             </p>
             <ul className={styles.hero_social}>
               <li>
-                <a href="#">
+                <a href="https://github.com/engsasikan">
                   <FaGithub />
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+                <a href="https://www.linkedin.com/in/sasikan-muenphan-717769266">
                   <FaLinkedinIn />
                 </a>
               </li>
               <li>
-                <a href="https://www.facebook.com/sasikan.muenphan.5/?viewas=100000686899395">
+                <a href="https://www.facebook.com/sasikan.muenphan.5">
                   <FaFacebookF />
                 </a>
               </li>

@@ -9,7 +9,7 @@ nav {
         position: absolute;
         top: 45px;
         right: 20px;
-        color: #fff;
+        color: #000000;
     }
 
 
@@ -112,6 +112,7 @@ nav {
             color: black;
         }
     }
+
     
 }
 
