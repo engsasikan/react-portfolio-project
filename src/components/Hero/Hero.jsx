@@ -30,13 +30,7 @@ function Hero() {
               
             </p>
             <p className={styles.text_4}>
-              I am someone who enjoys seeking additional knowledge and thrives
-              on challenging tasks. <br /> I have a strong passion for teamwork
-              and value the collaborative aspect of work. <br /> I am also
-              resilient and embrace difficult tasks because I believe they
-              provide valuable learning experiences. <br /> I am looking forward
-              to the opportunity to work together and I am excited to meet new
-              colleagues.
+            I'm a System Developer eager to work in a team-oriented environment, continuously learning and adapting to new technology.
             </p>
             <ul className={styles.hero_social}>
               <li>
@@ -45,12 +39,12 @@ function Hero() {
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
                   <FaLinkedinIn />
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.facebook.com/sasikan.muenphan.5/?viewas=100000686899395">
                   <FaFacebookF />
                 </a>
               </li>

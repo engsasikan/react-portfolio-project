@@ -19,7 +19,7 @@
         & .text_2{
             font-size: 32px;
             font-weight: bold;
-            color:#0085FF;
+            color:#1f4a71;
         }
     
         & .text_3{
@@ -53,9 +53,9 @@
             height: 300px;
             width: 300px;
             border-radius: 100%;
-            background-image: url('https://scontent.fbkk29-6.fna.fbcdn.net/v/t39.30808-6/402053115_2681592408682031_8256472513874668540_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF1UufnUcEoMnu5Lzc-wnXvj2n_bgKxc3KPaf9uArFzcju_OuQGy6qCKSCKuu2NIMrllMl1F04oAOllT1OjyR-5&_nc_ohc=8wx-k8_a8isQ7kNvgHTxYnG&_nc_zt=23&_nc_ht=scontent.fbkk29-6.fna&_nc_gid=A0p204qUgX7cNUF6jwxOxTy&oh=00_AYDxuPZQiVrPRQqWAue-2-rH37zMzgtj5t6HUJAfb_ii4A&oe=671416D7');
+            background-image:url('/src/img/S__12533862.jpg');
             background-size: cover;
-            background-position: center;
+            background-position: center top;
             margin-right: 120px;
         }
     }
